@@ -4,4 +4,4 @@
 
 ### Why?
 
-Time is relative. How good are you estimating it.
+Time is relative. How good are you estimating it?
